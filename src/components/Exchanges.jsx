@@ -3,7 +3,6 @@ import { server } from "../index";
 import React, { useEffect, useState } from "react";
 import Loader from "./Loader";
 import {
-  Box,
   Container,
   HStack,
   Heading,
